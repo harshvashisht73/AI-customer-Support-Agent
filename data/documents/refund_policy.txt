@@ -1,0 +1,28 @@
+
+SHOPEASE REFUND POLICY
+
+1. Refund Eligibility
+   Refunds are available for eligible orders after a return is approved or when another refund condition specified by ShopEase applies.
+
+2. Refund Processing Time
+   After an approved returned product has been received and inspected, ShopEase initiates the refund within 5 to 7 business days.
+
+3. Bank Processing Time
+   After ShopEase initiates a refund, the bank or payment provider may require an additional 5 to 10 business days to show the amount in the customer's account.
+
+4. Original Payment Method
+   Refunds are generally issued to the original payment method. If that method is unavailable, the customer should contact ShopEase support for assistance.
+
+5. Cancelled Orders
+   If a cancelled order qualifies for a refund, the refund is initiated according to the applicable refund processing rules.
+
+6. Refund Status
+   Customers can contact ShopEase support with their order ID to check their refund status.
+
+7. Delayed Refunds
+   If a refund has not arrived within the expected timeframe, the customer should contact ShopEase support with the order ID and available payment or refund details.
+
+8. Refund Approval
+   A refund request is subject to eligibility checks. Requesting a refund does not guarantee approval.
+
+Note: ShopEase is a fictional company created for this portfolio project.

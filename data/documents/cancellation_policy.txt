@@ -1,0 +1,25 @@
+
+SHOPEASE CANCELLATION POLICY
+
+1. Cancellation Eligibility
+   Customers can request cancellation while an order is in the processing stage.
+
+2. Orders Already Shipped
+   Orders that have already been shipped cannot normally be cancelled. Customers may request a return after delivery, subject to the ShopEase return policy.
+
+3. Cancellation Request
+   Customers should contact ShopEase support with their order ID to request cancellation.
+
+4. Cancellation Approval
+   A cancellation request is not guaranteed to be approved. The current order status and fulfilment stage must be checked before confirming cancellation.
+
+5. Refund for Cancelled Orders
+   If a cancellation is approved and payment has already been collected, any applicable refund will be processed according to the ShopEase refund policy.
+
+6. Delivered Orders
+   Delivered orders cannot be cancelled. Customers may request a return if the product meets the return policy requirements.
+
+7. Cancellation Confirmation
+   Customers should wait for confirmation from ShopEase support before assuming that an order has been cancelled.
+
+Note: ShopEase is a fictional company created for this portfolio project.

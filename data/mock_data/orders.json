@@ -1,0 +1,40 @@
+
+
+[
+  {
+    "order_id": "ORD1001",
+    "customer_id": "CUS1001",
+    "product": "Wireless Headphones",
+    "status": "shipped",
+    "total_amount": 1499.0,
+    "tracking_number": "TRK1001",
+    "estimated_delivery": "2026-10-12"
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_id": "CUS1001",
+    "product": "Laptop Stand",
+    "status": "processing",
+    "total_amount": 899.0,
+    "tracking_number": null,
+    "estimated_delivery": "2026-10-15"
+  },
+  {
+    "order_id": "ORD1003",
+    "customer_id": "CUS1002",
+    "product": "Bluetooth Speaker",
+    "status": "delivered",
+    "total_amount": 2499.0,
+    "tracking_number": "TRK1003",
+    "estimated_delivery": "2026-10-05"
+  },
+  {
+    "order_id": "ORD1004",
+    "customer_id": "CUS1003",
+    "product": "USB Keyboard",
+    "status": "cancelled",
+    "total_amount": 699.0,
+    "tracking_number": null,
+    "estimated_delivery": null
+  }
+]

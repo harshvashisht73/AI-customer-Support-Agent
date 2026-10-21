@@ -1,0 +1,14 @@
+
+langchain
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+langgraph
+pydantic
+python-dotenv
+pytest
+langchain-groq
+langchain-huggingface
+sentence-transformers
+langchain-community
+pydantic[email]

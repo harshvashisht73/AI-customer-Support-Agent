@@ -1,0 +1,22 @@
+
+
+[
+  {
+    "customer_id": "CUS1001",
+    "name": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "is_active": true
+  },
+  {
+    "customer_id": "CUS1002",
+    "name": "Priya Verma",
+    "email": "priya@example.com",
+    "is_active": true
+  },
+  {
+    "customer_id": "CUS1003",
+    "name": "Amit Kumar",
+    "email": "amit@example.com",
+    "is_active": false
+  }
+]

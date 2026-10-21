@@ -1,0 +1,25 @@
+
+
+[
+  {
+    "refund_id": "REF1001",
+    "order_id": "ORD1003",
+    "customer_id": "CUS1002",
+    "amount": 2499.0,
+    "status": "processed"
+  },
+  {
+    "refund_id": "REF1002",
+    "order_id": "ORD1002",
+    "customer_id": "CUS1001",
+    "amount": 899.0,
+    "status": "pending"
+  },
+  {
+    "refund_id": "REF1003",
+    "order_id": "ORD1004",
+    "customer_id": "CUS1003",
+    "amount": 699.0,
+    "status": "approved"
+  }
+]

@@ -1,0 +1,31 @@
+
+SHOPEASE SHIPPING POLICY
+
+1. Standard Delivery
+   Standard shipping usually takes 3 to 7 business days from the date the order is shipped.
+
+2. Express Delivery
+   Express shipping usually takes 1 to 3 business days from the date the order is shipped, where this service is available.
+
+3. Order Processing
+   Orders are generally processed within 1 to 2 business days before shipment. Processing time may vary during holidays or promotional periods.
+
+4. Order Tracking
+   Once an order has shipped, customers can use the tracking number provided by ShopEase to check the shipment status.
+
+5. Delayed Shipments
+   Delivery estimates are not guarantees. Weather, carrier disruptions, public holidays, and other unexpected events may delay delivery.
+
+6. Missing Tracking Information
+   If an order is still processing, a tracking number may not yet be available. Customers should check their order status before contacting support.
+
+7. Delivery Issues
+   If a shipment appears lost or tracking information has not updated for an extended period, customers should contact ShopEase support with their order ID.
+
+8. Delivery Address
+   Customers should verify their delivery address before placing an order. Address changes after shipment may not be possible.
+
+9. Shipping Charges
+   Applicable shipping charges are displayed during checkout before the customer confirms the purchase.
+
+Note: ShopEase is a fictional company created for this portfolio project.

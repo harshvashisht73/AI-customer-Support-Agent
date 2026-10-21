@@ -1,0 +1,34 @@
+
+SHOPEASE PAYMENTS AND ACCOUNT FAQs
+
+1. Supported Payment Methods
+   ShopEase supports the payment methods displayed at checkout. Available options may vary depending on the customer's location and order.
+
+2. Payment Failed
+   If a payment fails, customers should check their payment app or bank account before trying again. They should avoid repeatedly submitting payments while a transaction is pending.
+
+3. Money Deducted but Order Not Confirmed
+   If money was deducted but the order was not confirmed, the customer should check the transaction status with their bank or payment provider and contact ShopEase support with the transaction details.
+
+4. Duplicate Payment
+   If a customer believes they were charged more than once for the same order, they should contact ShopEase support with the order ID and relevant transaction references. The support team should verify the transactions before confirming any refund.
+
+5. Payment Security
+   Customers should never share their passwords, one-time passwords (OTPs), or complete card security details with anyone claiming to be ShopEase support.
+
+6. Password Reset
+   Customers who forget their password should use the password-reset option available through the official ShopEase account interface.
+
+7. Account Access Problems
+   If a customer cannot access their account, they should verify their login details and use the account-recovery process. If the problem continues, they should contact ShopEase support.
+
+8. Updating Account Details
+   Customers should use the official account settings to update their personal details. Some changes may require identity or account verification.
+
+9. Unknown Transaction
+   If a customer notices an unfamiliar transaction, they should contact their bank or payment provider promptly and report the issue to ShopEase support.
+
+10. Contacting Support
+    Customers should provide relevant information, such as their order ID or transaction reference, but must not share passwords or OTPs.
+
+Note: ShopEase is a fictional company created for this portfolio project.
